@@ -98,8 +98,8 @@ Currently, I am interested in the following topics: sentiment analysis and opini
 
 ## Teaching
 
-- Machine Learning for undergraduate students (in Chinese)
-- Advanced Machine Learning for graduate students
+- **Machine Learning** for undergraduate students (in Chinese)
+- **Advanced Machine Learning** for graduate students
 
 ## Students
 

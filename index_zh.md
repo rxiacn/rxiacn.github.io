@@ -101,8 +101,8 @@ toc: true
 
 ## 讲授课程
 
-- 机器学习 本科生课程
-- Advanced Machine Learning 研究生课程（英文）
+- **机器学习** 本科生课程
+- **Advanced Machine Learning** 研究生课程（英文）
 
 ## 指导学生
 
