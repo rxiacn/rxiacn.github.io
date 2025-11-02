@@ -261,3 +261,9 @@ discord:
 mastodon:
   name: Mastodon
   icon: icon-mastodon
+googlescholar:
+  name: Google Scholar
+  icon: icon-google
+researchgate:
+  name: Research Gate
+  icon: icon-link

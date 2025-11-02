@@ -52,8 +52,10 @@ author:
 menu:
   - title:             Home
     url:               /
-  - title:             Publication
+  - title:             主页
     url:               /index_zh
+  - title:             Publication
+    url:               /publication
   - title:             Teaching
     url:               /teaching/
   - title:             Research Group
@@ -270,7 +272,7 @@ hydejack:
     always:            false
 
     # Set to `true` to use the dark theme based on visitors' preference (OS setting).
-    dynamic:           true
+    dynamic:           false
 
     # Set to `true` to allow visitors to switch between light and dark mode.
     icon:              true

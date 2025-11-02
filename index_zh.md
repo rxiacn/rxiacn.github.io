@@ -8,13 +8,13 @@ sitemap: false
 menu: none
 toc: true
 ---
-![](assets/img/xiarui2018.jpg){: width="300"}
+<!-- ![](assets/img/xiarui2018.jpg){: width="300"}
 
 > 教授 \
 > 计算机科学与工程学院 \
 > 南京理工大学 \
 > 办公室: 江苏省南京市玄武区孝陵卫200号计算机学院3030室 \
-> E-mail: rxia at njust dot edu dot cn
+> E-mail: rxia at njust dot edu dot cn -->
 
 1. this unordered seed list will be replaced by the toc
 {:toc .affix}
