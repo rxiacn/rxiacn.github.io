@@ -1,4 +1,4 @@
----
+<!-----
 layout: page
 title: "夏睿"
 description: >
@@ -8,7 +8,7 @@ sitemap: false
 menu: none
 toc: true
 ---
-<!-- ![](assets/img/xiarui2018.jpg){: width="300"}
+ ![](assets/img/xiarui2018.jpg){: width="300"}
 
 > 教授 \
 > 计算机科学与工程学院 \
@@ -21,28 +21,28 @@ toc: true
 
 ## 个人简介
 
-2011年6月博士毕业于中国科学院自动化研究所（模式识别国家重点实验室），师从宗成庆研究员。同年入职南京理工大学计算机学院，历任讲师（2011）、副教授（2015）、教授（2017）。担任语言信息智能处理与应用工信部重点实验室副主任、社会安全图像与视频理解江苏省重点实验室副主任、中国中文信息学会理事/情感计算专委会委员、中国计算机学会自然语言处理专委会委员、江苏省人工智能学会自然语言处理专委会副主任委员、江苏省人工智能学会数据挖掘与应用专委会副主任委员。
+夏睿，南京大学智能科学与技术学院教授、博导。2011年获得中国科学院自动化研究所博士学位。研究领域为自然语言处理、文本挖掘、情感计算、大模型应用。主持4项国家自然科学基金、江苏省杰青、优青等项目，在领域顶级会议和期刊发表论文90余篇，出版中英文学术专著各1部。担任语言信息智能处理与应用工信部重点实验室副主任、社会安全图像与视频理解江苏省重点实验室副主任、中国中文信息学会理事/情感计算专委会委员、中国计算机学会自然语言处理专委会委员、江苏省人工智能学会自然语言处理专委会副主任委员、江苏省人工智能学会数据挖掘与应用专委会副主任委员。
 
 研究领域为人工智能、自然语言处理、文本挖掘、情感计算，目前的研究兴趣包括：情感分析与观点挖掘、信息抽取与知识图谱、人机交互与对话系统、社交媒体分析、多模态学习、常识推理、大语言模型、金融NLP等。
 
 ## 奖励与荣誉
 
-- 2023年 第61届国际计算语言学学会年会ACL 杰出论文奖（通讯）
-- 2022年 教育部高等学校科学研究优秀成果奖 自然科学奖二等奖（排一）
-- 2020年 中国中文信息学会钱伟长中文信息处理奖 青年创新奖一等奖
-- 2020年 第28届世界计算语言学大会COLING 最佳论文提名（通讯）
+- 2023年 第61届国际计算语言学学会年会ACL杰出论文奖（通讯）
+- 2022年 教育部高等学校科学研究优秀成果奖自然科学奖二等奖（排一）
+- 2020年 中国中文信息学会钱伟长中文信息处理奖青年创新奖一等奖
+- 2020年 第28届世界计算语言学大会COLING最佳论文提名（通讯）
 - 2020年 江苏省杰出青年基金
-- 2019年 江苏省计算机学会 青年科技奖
-- 2019年 第57届国际计算语言学学会年会ACL 杰出论文奖（一作）
-- 2017年 南京理工大学青年拔尖人才选聘计划并破格晋升为教授
+- 2019年 江苏省计算机学会青年科技奖
+- 2019年 第57届国际计算语言学学会年会ACL杰出论文奖（一作）
 - 2017年 武汉3551光谷人才计划
 - 2016年 首届江苏省优秀青年基金
-- 2014年 南京理工大学紫金之星人才计划
+
+## 专著
+- Chengqing Zong, Rui Xia and Jiajun Zhang, Text Data Mining, Springer, 2021. 
+- 宗成庆, 夏睿, 张家俊. 文本数据挖掘（第二版）, 清华大学出版社, 2023.
 
 ## 代表性论文
 [Google Scholar](https://scholar.google.com.hk/citations?user=Znde6gwAAAAJ)
-- Chengqing Zong, Rui Xia and Jiajun Zhang, Text Data Mining, Springer, 2021. 
-- 宗成庆, 夏睿, 张家俊. 文本数据挖掘（第二版）, 清华大学出版社, 2023. 
 - Xiangqing Shen, Siwei Wu, and Rui Xia\*. Dense-ATOMIC: Towards Densely-connected ATOMIC with High Knowledge Coverage and Massive Multi-hop Paths. The Annual Meeting of the Association for Computational Linguistics (ACL), 2023. <font color="#FF0000"><b>(杰出论文奖)</b></font>
 - Siwei Wu, Xiangqing Shen, and Rui Xia\*. Commonsense Knowledge Graph Completion Via Contrastive Pretraining and Node Clustering. The Annual Meeting of the Association for Computational Linguistics (ACL), 2023.
 - Debin Xiao, Rui Xia\*, and Jianfei Yu. Emotion Cause Extraction on Social Media without Human Annotation. The Annual Meeting of the Association for Computational Linguistics (ACL), 2023.
@@ -99,12 +99,12 @@ toc: true
 - Shoushan Li, Rui Xia, Chengqing Zong, and Chu-Ren Huang. A Framework of Feature Selection Methods for Text Categorization. The Annual Meeting of the Association for Computational Linguistics (ACL), 2009.
 - Rui Xia, Ke Meng, Feng Qian, and Zhenlei Wang. Online Wavelet Denoising via a Moving Window. ACTA Automatic Sinica, 2007.
 
-## 讲授课程
+## 课程
 
 - **机器学习** 本科生课程
 - **Advanced Machine Learning** 研究生课程（英文）
 
-## 指导学生
+## 学生
 
 目前每年可以招收1~2名博士生、4名硕士生，欢迎勤奋好学、踏实肯干，有较好的数学、英语基础和编程能力（需英语六级>500或有ACM获奖经历），且对人工智能、自然语言处理、机器学习、数据挖掘领域感兴趣的同学与我联系。
 
