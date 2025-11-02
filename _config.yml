@@ -52,10 +52,12 @@ author:
 menu:
   - title:             Home
     url:               /
-  - title:             主页
+  - title:             Publication
     url:               /index_zh
-  # - title:             About
-  #   url:               /about/
+  - title:             Teaching
+    url:               /teaching/
+  - title:             Research Group
+    url:               /group/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
