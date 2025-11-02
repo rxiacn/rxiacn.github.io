@@ -12,9 +12,25 @@
     margin: 1rem 0;
   }
 }
-.prompt {
-    background-color: rgb(255 243 205);
-    border-left-color: rgb(255 243 205);
-    color: rgb(51 51 51);
+
+
+
+body.light-mode {
+  --prompt-bg-color: rgb(255 243 205);
 }
+body {
+  --prompt-bg-color: rgb(255 243 205);
+}
+
+body.dark-mode {
+  --prompt-bg-color: rgb(90 69 3 / 88%);
+}
+
+
+.prompt {
+  background-color: var(--prompt-bg-color);
+  color: var(--body-color);
+  border-width: 0pt !important;
+}
+
 
