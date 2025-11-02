@@ -19,8 +19,7 @@ toc: true
 1. this unordered seed list will be replaced by the toc
 {:toc .affix}
 
-## Biography
-
+## About Me
 I am a full professor at School of Computer Science and Engineering, Nanjing University of Science and Technology. I received my Ph.D degree at National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences in 2011, under the supervision of Prof. Chengqing Zong. My research fields include Artificial Intelligence, Natural Language Processing, Text Mining, and Affective Computing.
 
 Currently, I am interested in the following topics: sentiment analysis and opinion mining, information extraction and knowledge graph, human-machine interaction and dialogue system, social media analysis, multimodal machine learning, commonsense knowledge reasoning, large language model, financial NLP, etc.
