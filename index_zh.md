@@ -54,7 +54,9 @@ toc: true
 - Rui Xia and Zixiang Ding. Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts. The Annual Meeting of the Association for Computational Linguistics (ACL), 2019. <font color="#FF0000"><b>(杰出论文奖)</b></font>
 - Rui Xia, Feng Xu, Chengqing Zong, Qianmu Li, Yong Qi and Tao Li. Dual Sentiment Analysis: Considering Two Sides of One Review. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2015. 
 - Rui Xia, Chengqing Zong, and Shoushan Li. Ensemble of Feature Sets and Classification Algorithms for Sentiment Classification. Information Sciences, 2011.
+
 [Full list]
+
 [Google Scholar](https://scholar.google.com.hk/citations?user=Znde6gwAAAAJ)
 
 ## 课程教学
