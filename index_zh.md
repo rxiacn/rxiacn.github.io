@@ -28,21 +28,21 @@ toc: true
 目前的研究兴趣包括：
 - 自然语言处理
 - 情感计算
-- 知识与数据双驱动人工智能方法
-- 大语言模型应用
+- 数据与知识双驱动人工智能方法
+- 大模型应用
 
 <font color="#FF0000"><b>2026年招生：目前还有2026年秋季入学申请审核制博士生指标2名、硕士生指标若干名，欢迎感兴趣的同学跟我联系。
 </b></font>
 
 ## 荣誉奖励
-2023年 国际计算语言学学会年会ACL2023杰出论文奖（通讯作者）
-2022年 教育部自然科学奖二等奖（第一完成人）
-2020年 国际计算语言学会议COLING2020最佳论文提名（通讯作者）
-2020年 中国中文信息学会钱伟长中文信息处理青年创新奖一等奖
-2019年 国际计算语言学学会年会ACL2019杰出论文奖（第一作者）
-2019年 江苏省计算机学会青年科技奖
-2019年 江苏省六大人才高峰
-2017年 武汉3551光谷人才计划
+- 2023年 国际计算语言学学会年会ACL2023杰出论文奖（通讯作者）
+- 2022年 教育部自然科学奖二等奖（第一完成人）
+- 2020年 国际计算语言学会议COLING2020最佳论文提名（通讯作者）
+- 2020年 中国中文信息学会钱伟长中文信息处理青年创新奖一等奖
+- 2019年 国际计算语言学学会年会ACL2019杰出论文奖（第一作者）
+- 2019年 江苏省计算机学会青年科技奖
+- 2019年 江苏省六大人才高峰
+- 2017年 武汉3551光谷人才计划
 
 ## 学术专著
 - Chengqing Zong, Rui Xia and Jiajun Zhang, Text Data Mining, Springer, 2021. 
@@ -55,7 +55,7 @@ toc: true
 - Rui Xia, Feng Xu, Chengqing Zong, Qianmu Li, Yong Qi and Tao Li. Dual Sentiment Analysis: Considering Two Sides of One Review. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2015. 
 - Rui Xia, Chengqing Zong, and Shoushan Li. Ensemble of Feature Sets and Classification Algorithms for Sentiment Classification. Information Sciences, 2011.
 
-[Full list]
+[Full list](https://rxiacn.github.io/publication)
 
 [Google Scholar](https://scholar.google.com.hk/citations?user=Znde6gwAAAAJ)
 
