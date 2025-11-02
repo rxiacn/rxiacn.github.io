@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Group"
+title: "Research Group"
 description: >
   Configuration options for Hydejack.
 hide_description: true
