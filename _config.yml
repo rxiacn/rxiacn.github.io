@@ -58,7 +58,7 @@ menu:
     url:               /index
   - title:             Publication
     url:               /publication
-  - title:             Research Group
+  - title:             Group
     url:               /group/
 
 # Add links to the footer.
