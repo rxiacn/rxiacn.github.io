@@ -73,7 +73,7 @@ I can recruit 2 Chinese Ph.D. candidate and 3~4 Chinese master candidates every 
 - 2023 Yi Feng (Master Candidate)
 - 2023 Wenjing Gui (Master Candidate) 
 - 2023 Yuhang Wu (Master Candidate) 
-- 2023 Yicheng Yang (Master Candidate) 
+- 2023 Yichen Yang (Master Candidate) 
 - 2022 Ziyan Li (Master Candidate) 
 - 2022 Heqing Ma (Master Candidate) 
 - 2021 Ke Li (Master Candidate) 
