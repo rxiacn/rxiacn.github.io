@@ -1,6 +1,6 @@
-<!-- ---
+---
 layout: page
-title: "Rui Xia"
+# title: "Rui Xia"
 description: >
   Configuration options for Hydejack.
 hide_description: true
@@ -8,6 +8,7 @@ sitemap: false
 menu: none
 toc: true
 ---
+<!-- 
 ![](assets/img/xiarui2018.jpg){: width="300" height="400"}
 
 > Professor \
