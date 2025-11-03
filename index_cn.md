@@ -8,7 +8,7 @@ sitemap: false
 menu: none
 toc: true
 ---
- <!-- ![](assets/img/xiarui2018.jpg){: width="300"}
+<!-- ![](assets/img/xiarui2018.jpg){: width="300"}
 
 > 教授 \
 > 计算机科学与工程学院 \
