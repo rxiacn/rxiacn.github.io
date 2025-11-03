@@ -50,10 +50,10 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title:             主页
+    url:               /
   - title:             Home
     url:               /index_en
-  - title:             中文主页
-    url:               /
   - title:             Publication
     url:               /publication
   - title:             Group
