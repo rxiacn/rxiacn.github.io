@@ -30,7 +30,10 @@ body.dark-mode {
 .prompt {
   background-color: var(--prompt-bg-color);
   color: var(--body-color);
-  border-width: 0pt !important;
+}
+
+.prompt.lead {
+  border-left-width: 0pt;
 }
 
 
