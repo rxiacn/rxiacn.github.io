@@ -56,10 +56,11 @@ menu:
     url:               /index_en
   - title:             Publication
     url:               /publication
-  - title:             Group
-    url:               /group
   - title:             Application
     url:               /application
+  - title:             Group
+    url:               /group
+
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
