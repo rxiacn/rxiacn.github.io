@@ -52,12 +52,12 @@ author:
 menu:
   - title:             Home
     url:               /
-  - title:             主页
+  - title:             中文主页
     url:               /index_zh
+    - title:           Main
+    url:               /index  
   - title:             Publication
     url:               /publication
-  - title:             Teaching
-    url:               /teaching/
   - title:             Research Group
     url:               /group/
 
@@ -72,7 +72,7 @@ menu:
 #     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2024. All rights reserved.
+copyright:             © 2025. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
