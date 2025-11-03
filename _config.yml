@@ -51,9 +51,9 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             主页
-    url:               /index_cn
-  - title:             Home
     url:               /
+  - title:             Home
+    url:               /index_en
   - title:             Publication
     url:               /publication
   - title:             Group
