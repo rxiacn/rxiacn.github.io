@@ -1,7 +1,6 @@
-<!-- ---
+---
 layout: page
-title: "夏睿"
-# 头不可缺，如要删除标题可以用“#”注释title行
+# title: "夏睿"
 description: >
   Configuration options for Hydejack.
 hide_description: true
@@ -9,7 +8,7 @@ sitemap: false
 menu: none
 toc: true
 ---
-
+<!-- 
 ![](assets/img/xiarui2018.jpg){: width="300"}
 
 > 教授 \
