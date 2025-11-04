@@ -19,11 +19,13 @@ toc: true
 1. this unordered seed list will be replaced by the toc
 {:toc .affix}
 
-Write something. 写一些东西。
+To be continued...
 
+<!--
 > **Looking for ...** \
 > 2026年**<span style='color: red;'>硕士生</span>招生** \
 > 2026年**<span style='color: red;'>博士生</span>招生**
 {:.prompt .lead}
+-->
 
 <!--prompt类的样式是自行加在_sass/my-style.scss中的-->
