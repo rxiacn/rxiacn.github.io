@@ -26,9 +26,9 @@ I am a full professor at School of Intelligence Science and Technology, Nanjing 
 Currently, I am interested in the following topics: sentiment analysis and opinion mining, information extraction and knowledge graph, human-machine interaction and dialogue system, social media analysis, multimodal machine learning, commonsense knowledge reasoning, large language model, financial NLP, etc.
 
 ## Selected Publication
-- Xiangqing Shen, Siwei Wu, and Rui Xia\*. Dense-ATOMIC: Towards Densely-connected ATOMIC with High Knowledge Coverage and Massive Multi-hop Paths. The Annual Meeting of the Association for Computational Linguistics (ACL), 2023. <font color="#FF0000"><b>(杰出论文奖)</b></font>
-- Rui Xia and Zixiang Ding. Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts. The Annual Meeting of the Association for Computational Linguistics (ACL), 2019. <font color="#FF0000"><b>(杰出论文奖)</b></font>
-- Hongjie Cai, Yaofeng Tu, Xiangsheng Zhou, Jianfei Yu, and Rui Xia\*. Aspect-Category based Sentiment Analysis with Hierarchical Graph Convolutional Network. The International Conference on Computational Linguistics (COLING), 2020. <font color="#FF0000"><b>(最佳论文提名)</b></font>
+- Xiangqing Shen, Siwei Wu, and Rui Xia\*. Dense-ATOMIC: Towards Densely-connected ATOMIC with High Knowledge Coverage and Massive Multi-hop Paths. The Annual Meeting of the Association for Computational Linguistics (ACL), 2023. <font color="#FF0000"><b>(Outstanding Paper Award)</b></font>
+- Rui Xia and Zixiang Ding. Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts. The Annual Meeting of the Association for Computational Linguistics (ACL), 2019. <font color="#FF0000"><b>(Outstanding Paper Award)</b></font>
+- Hongjie Cai, Yaofeng Tu, Xiangsheng Zhou, Jianfei Yu, and Rui Xia\*. Aspect-Category based Sentiment Analysis with Hierarchical Graph Convolutional Network. The International Conference on Computational Linguistics (COLING), 2020. <font color="#FF0000"><b>(Best Paper Candidate)</b></font>
 - Rui Xia, Feng Xu, Chengqing Zong, Qianmu Li, Yong Qi and Tao Li. Dual Sentiment Analysis: Considering Two Sides of One Review. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2015. 
 - Rui Xia, Chengqing Zong, and Shoushan Li. Ensemble of Feature Sets and Classification Algorithms for Sentiment Classification. Information Sciences, 2011.
 
