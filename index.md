@@ -52,11 +52,11 @@ toc: true
 - 宗成庆, 夏睿, 张家俊. 文本数据挖掘（第二版）, 清华大学出版社, 2023.
 
 ## 代表性论文
-- Xiangqing Shen, Siwei Wu, and Rui Xia\*. Dense-ATOMIC: Towards Densely-connected ATOMIC with High Knowledge Coverage and Massive Multi-hop Paths. The Annual Meeting of the Association for Computational Linguistics (ACL), 2023. <font color="#FF0000"><b>(杰出论文奖)</b></font>
 - Rui Xia and Zixiang Ding. Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts. The Annual Meeting of the Association for Computational Linguistics (ACL), 2019. <font color="#FF0000"><b>(杰出论文奖)</b></font>
+- Xiangqing Shen, Siwei Wu, and Rui Xia\*. Dense-ATOMIC: Towards Densely-connected ATOMIC with High Knowledge Coverage and Massive Multi-hop Paths. The Annual Meeting of the Association for Computational Linguistics (ACL), 2023. <font color="#FF0000"><b>(杰出论文奖)</b></font>
 - Hongjie Cai, Yaofeng Tu, Xiangsheng Zhou, Jianfei Yu, and Rui Xia\*. Aspect-Category based Sentiment Analysis with Hierarchical Graph Convolutional Network. The International Conference on Computational Linguistics (COLING), 2020. <font color="#FF0000"><b>(最佳论文提名)</b></font>
 - Rui Xia, Feng Xu, Chengqing Zong, Qianmu Li, Yong Qi and Tao Li. Dual Sentiment Analysis: Considering Two Sides of One Review. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2015. 
-- Rui Xia, Chengqing Zong, and Shoushan Li. Ensemble of Feature Sets and Classification Algorithms for Sentiment Classification. Information Sciences, 2011.
+- Xiangqing Shen, Fanfan Wang, Bing Wang, Wenli Du, Chengqing Zong, and Rui Xia\*. Reason-Align-Respond: Aligning LLM Reasoning with Knowledge Graphs for KGQA. IEEE Transactions on Pattern Recognition and Machine Intelligence (TPAMI), 2026.
 
 [Full list](https://rxiacn.github.io/publication)
 
@@ -89,7 +89,7 @@ toc: true
 
 已毕业学生：
 - 2019级 汪帆帆（硕博生），主要论文：IEEE-TAFFC2023、EMNLP2023、ACM-MM2024、EMNLP2025
-- 2020级 沈祥清（博士生），主要论文：ACL2023×2、ACL2025×4、IEEE-TAFFC2025，获得ACL2023杰出论文奖	
+- 2020级 沈祥清（博士生），主要论文：ACL2023×2、ACL2025×4、IEEE-TAFFC2025、IEEE-TPAMI2026，获得ACL2023杰出论文奖
 - 2017级 蔡鸿杰（硕博生），主要论文：COLING2020、ACL2021、ACL2024，获得COLING2020最佳论文提名，毕业去向：科大讯飞（合肥）
 - 2016级 丁子祥（硕博生），主要论文：ACL2020、EMNLP2020、ACL2019、AAAI2019、IJCAI2019，获得ACL2019杰出论文奖，毕业去向：同花顺科技（杭州）（获得腾讯AI Lab、阿里达摩院、字节跳动、百度等offer）
 - 2022级 李紫嫣（硕士生），主要论文：ACL2023，毕业去向：百度（北京）
