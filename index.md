@@ -9,20 +9,12 @@ menu: none
 toc: true
 ---
 
-<!-- ![](assets/img/xiarui2018.jpg){: width="300"}
-
-> 教授 \
-> 计算机科学与工程学院 \
-> 南京理工大学 \
-> 办公室: 江苏省南京市玄武区孝陵卫200号计算机学院3030室 \
-> E-mail: rxia at njust dot edu dot cn -->
-
 1. this unordered seed list will be replaced by the toc
 {:toc .affix}
 
 ## 个人简介
 
-夏睿，南京大学智能科学与技术学院教授、博士生导师。2011年获得中国科学院自动化研究所博士学位。研究领域为自然语言处理、文本挖掘、情感计算、大模型应用。主持4项国家自然科学基金、江苏省杰青、优青等项目，在领域顶级会议和期刊发表论文90余篇，出版中英文学术专著各1部。曾任语言信息智能处理与应用工信部重点实验室副主任、社会安全图像与视频理解江苏省重点实验室副主任，长期担任人工智能和自然语言处理领域的顶级会议（ACL、EMNLP、COLING、IJCAI、AAAI等）领域主席、高级程序委员会委员，担任顶级期刊IEEE-TAFFC编委。
+夏睿，南京大学智能科学与技术学院教授、博士生导师。2011年获得中国科学院自动化研究所博士学位。研究领域为自然语言处理、文本挖掘、情感计算、大模型应用。主持包含4项国家自然科学基金、江苏省杰青/优青在内的国家及省部级项目近10项，在领域顶级会议和期刊发表论文90余篇，出版中英文学术专著各1部。曾任语言信息智能处理与应用工信部重点实验室副主任、社会安全图像与视频理解江苏省重点实验室副主任，长期担任人工智能和自然语言处理领域的顶级会议（ACL、EMNLP、COLING、IJCAI、AAAI等）领域主席、高级程序委员会委员，担任顶级期刊IEEE-TAFFC编委。
 
 目前的研究兴趣包括：
 - 自然语言处理：情感分析、信息抽取、知识图谱、语义解析、问答系统
@@ -35,7 +27,7 @@ toc: true
 - 办公地址：南京大学苏州校区南雍楼西区541
 - 电子邮箱：rxia AT nju.edu.cn
 
-<font color="#FF0000"><b>招生信息：目前还有2026年秋季入学申请审核制博士生指标2名、硕士生指标若干名，欢迎感兴趣的同学与我联系。</b></font>
+<font color="#FF0000"><b>招生信息：目前还有少量2026年秋季入学硕士生指标，欢迎感兴趣的同学与我联系。</b></font>
 
 ## 荣誉奖励
 - 2023年 国际计算语言学学会年会ACL2023杰出论文奖（通讯作者）
@@ -56,7 +48,7 @@ toc: true
 - Xiangqing Shen, Siwei Wu, and Rui Xia\*. Dense-ATOMIC: Towards Densely-connected ATOMIC with High Knowledge Coverage and Massive Multi-hop Paths. The Annual Meeting of the Association for Computational Linguistics (ACL), 2023. <font color="#FF0000"><b>(杰出论文奖)</b></font>
 - Hongjie Cai, Yaofeng Tu, Xiangsheng Zhou, Jianfei Yu, and Rui Xia\*. Aspect-Category based Sentiment Analysis with Hierarchical Graph Convolutional Network. The International Conference on Computational Linguistics (COLING), 2020. <font color="#FF0000"><b>(最佳论文提名)</b></font>
 - Rui Xia, Feng Xu, Chengqing Zong, Qianmu Li, Yong Qi and Tao Li. Dual Sentiment Analysis: Considering Two Sides of One Review. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2015. 
-- Xiangqing Shen, Fanfan Wang, Bing Wang, Wenli Du, Chengqing Zong, and Rui Xia\*. Reason-Align-Respond: Aligning LLM Reasoning with Knowledge Graphs for KGQA. IEEE Transactions on Pattern Recognition and Machine Intelligence (TPAMI), 2026.
+- Xiangqing Shen, Fanfan Wang, Zinong Yang, Bing Wang, Wenli Du, Chengqing Zong, and Rui Xia\*. Reason-Align-Respond: Aligning LLM Reasoning with Knowledge Graphs for KGQA. IEEE Transactions on Pattern Recognition and Machine Intelligence (TPAMI), 2026.
 
 [Full list](https://rxiacn.github.io/publication)
 
@@ -64,32 +56,32 @@ toc: true
 
 ## 课程教学
 
-- **机器学习** 本科生课程（南京大学智能科学与技术学院）
+- **机器学习导论** 本科生课程（南京大学智能科学与技术学院）
 - **人工智能与机器学习方法** 研究生课程（中国科学院大学南京学院）
 
 ## 学生指导
 
-目前每年可以招收2名博士生、3名硕士生，欢迎有较好的数学、英语基础和编程能力（需英语六级>500或有ACM获奖经历），有科研初心、做事不功利、愿意解决实际问题、有自驱力的同学与我联系。
+欢迎有较好的数学、英语基础和编程能力（需英语六级>500或有ACM获奖经历），有科研初心、做事不功利、愿意解决实际问题、有自驱力的同学与我联系。
 
 在读学生：
 - 2023级 董子路（硕博生），主要论文：ACL2025×2
-- 2023级 宋禹润（直博生），主要论文：ACL2025
-- 2022级 谢淇名（硕博生），主要论文：ACL2024
+- 2023级 宋禹润（直博生），主要论文：ACL2025、ACL2026
+- 2022级 谢淇名（硕博生），主要论文：ACL2024、ACL2026
 - 2022级 朱耀辰（直博生）
-- 2022级 杨子农（博士生），主要论文：ACL2023
+- 2022级 杨子农（博士生），主要论文：ACL2023、IEEE-TAFFC2026
 - 2022级 郑文杰（博士生），主要论文：ACL2023、ACM-MM2024
 - 2024级 管润达（硕士生）
 - 2024级 黄蓉（硕士生）
 - 2024级 李阳阳（硕士生）
 - 2024级 沈洋（硕士生）
 - 2023级 冯毅（硕士生）
-- 2023级 桂雯静（硕士生）
-- 2023级 吴宇航（硕士生）
+- 2023级 桂雯静（硕士生），主要论文：IEEE-TAFFC2026
+- 2023级 吴宇航（硕士生），主要论文：ACL2026
 - 2023级 杨熠辰（硕士生）
 
 已毕业学生：
 - 2019级 汪帆帆（硕博生），主要论文：IEEE-TAFFC2023、EMNLP2023、ACM-MM2024、EMNLP2025
-- 2020级 沈祥清（博士生），主要论文：ACL2023×2、ACL2025×4、IEEE-TAFFC2025、IEEE-TPAMI2026，获得ACL2023杰出论文奖
+- 2020级 沈祥清（博士生），主要论文：ACL2023×2、ACL2025×4、ACL2026×3、IEEE-TAFFC2025、IEEE-TPAMI2026，获得ACL2023杰出论文奖，毕业去向：南京大学智能科学与技术学院准聘助理教授
 - 2017级 蔡鸿杰（硕博生），主要论文：COLING2020、ACL2021、ACL2024，获得COLING2020最佳论文提名，毕业去向：科大讯飞（合肥）
 - 2016级 丁子祥（硕博生），主要论文：ACL2020、EMNLP2020、ACL2019、AAAI2019、IJCAI2019，获得ACL2019杰出论文奖，毕业去向：同花顺科技（杭州）（获得腾讯AI Lab、阿里达摩院、字节跳动、百度等offer）
 - 2022级 李紫嫣（硕士生），主要论文：ACL2023，毕业去向：百度（北京）
