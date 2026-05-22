@@ -46,9 +46,9 @@ toc: true
 - 宗成庆, 夏睿, 张家俊. 文本数据挖掘（第二版）, 清华大学出版社, 2023.
 
 ## 代表性论文
-- Rui Xia and Zixiang Ding. Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts. The Annual Meeting of the Association for Computational Linguistics (ACL), 2019. <font color="#FF0000"><b>(杰出论文奖)</b></font>
-- Xiangqing Shen, Siwei Wu, and Rui Xia\*. Dense-ATOMIC: Towards Densely-connected ATOMIC with High Knowledge Coverage and Massive Multi-hop Paths. The Annual Meeting of the Association for Computational Linguistics (ACL), 2023. <font color="#FF0000"><b>(杰出论文奖)</b></font>
-- Hongjie Cai, Yaofeng Tu, Xiangsheng Zhou, Jianfei Yu, and Rui Xia\*. Aspect-Category based Sentiment Analysis with Hierarchical Graph Convolutional Network. The International Conference on Computational Linguistics (COLING), 2020. <font color="#FF0000"><b>(最佳论文提名)</b></font>
+- Rui Xia and Zixiang Ding. Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts. The Annual Meeting of the Association for Computational Linguistics (ACL), 2019. <font color="#FF0000">(杰出论文奖)</font>
+- Xiangqing Shen, Siwei Wu, and Rui Xia\*. Dense-ATOMIC: Towards Densely-connected ATOMIC with High Knowledge Coverage and Massive Multi-hop Paths. The Annual Meeting of the Association for Computational Linguistics (ACL), 2023. <font color="#FF0000">(杰出论文奖)</font>
+- Hongjie Cai, Yaofeng Tu, Xiangsheng Zhou, Jianfei Yu, and Rui Xia\*. Aspect-Category based Sentiment Analysis with Hierarchical Graph Convolutional Network. The International Conference on Computational Linguistics (COLING), 2020. <font color="#FF0000">(最佳论文提名)</font>
 - Rui Xia, Feng Xu, Chengqing Zong, Qianmu Li, Yong Qi and Tao Li. Dual Sentiment Analysis: Considering Two Sides of One Review. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2015. 
 - Xiangqing Shen, Fanfan Wang, Zinong Yang, Bing Wang, Wenli Du, Chengqing Zong, and Rui Xia\*. Reason-Align-Respond: Aligning LLM Reasoning with Knowledge Graphs for KGQA. IEEE Transactions on Pattern Recognition and Machine Intelligence (TPAMI), 2026.
 
